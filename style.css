@@ -418,13 +418,6 @@
    transform: scale(1.2); 
  } 
   
- .footer_bottom { 
-   display: flex; 
-   justify-content: center; 
-   align-items: center; 
-   gap: 1px; 
- } 
-  
  .footer_text-1 { 
    font-size: 14px; 
    font-weight: 500; 
